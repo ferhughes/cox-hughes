@@ -123,7 +123,7 @@ video{
 #portafolio{
 	width:100%;
 	background:rgb(249,232,243);
-	padding-bottom:1%;
+	padding-bottom:100%;
 	/* 4 veces lo mismo, para que funcione en distintos navegadores */
 	-webkit-animation: fondo 3s infinite linear alternate;
 	-moz-animation: fondo 3s infinite linear alternate;
